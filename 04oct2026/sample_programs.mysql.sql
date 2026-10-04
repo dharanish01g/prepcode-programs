@@ -14,3 +14,4 @@ create table if not EXISTS hi (
 insert into departments (name, location) values ('computer', 'chennai');
 
 select * from departments;
+
