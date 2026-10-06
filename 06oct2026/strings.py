@@ -1,4 +1,4 @@
-sentence = "Hello There"
+sentence = input("Enter the Sentence")
 print(sentence)
 
 updated_sen = ""
