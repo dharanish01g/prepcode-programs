@@ -1,10 +1,8 @@
-number = int(input("Enter the Number: " ))
-starting = 2
-is_prime = True
-while (starting < number):
+for i in range(1, 6):
+    for j in range(5 - i):
+        print(" ", end="")
 
-    if number % starting == 0:
-        is_prime = False
-    starting += 1
-
-print(is_prime)
+    for k in range(i):
+        print(i, end = " ")
+    
+    print()
