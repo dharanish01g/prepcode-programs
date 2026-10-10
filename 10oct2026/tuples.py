@@ -1,0 +1,2 @@
+result = (1, 2, 3, 2).index(2)
+print(result)
