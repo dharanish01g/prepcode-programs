@@ -1,2 +1,2 @@
-result = (1, 2, 3, 2).index(2)
-print(result)
+num = 'asdfghjk'
+print(num.reverse())
