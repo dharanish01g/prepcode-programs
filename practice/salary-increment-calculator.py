@@ -6,5 +6,4 @@ class Solution:
         elif score > 5 and score <= 7:
             return int(currentSalary + (0.10 * currentSalary))
         else:
-            return int(cu
-        )
+            return int(currentSalary + (0.05 * currentSalary))
