@@ -5,4 +5,4 @@ try:
 except ValueError:
     print("Give the Numbers as a input")
 except ZeroDivisionError:
-    print("Cannot Divide by Zero")
+    print("Cannot Divide by Zero")  
